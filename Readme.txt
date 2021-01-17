@@ -38,7 +38,7 @@ I use Russian keyboard layout so I also write phrases
 in Russian with English keyboard layout.
 
 After that create QuickLaunch folder in Program Files 
-and place this file and png icon there.
+and place this file (Applist.txt) and png icon with name Launch.png there.
 
 For quick run of this app you can create shortcut
 on the taskbar and call it with win + [1] key combination.
