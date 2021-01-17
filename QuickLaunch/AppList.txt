@@ -1,0 +1,190 @@
+#Word
+"C:\Program Files\Microsoft Office\Office16\WINWORD.EXE"
+ворд
+djhl
+word
+#PowerPoint
+"C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE"
+powerpoint
+power point
+паверпоинт
+gfdthgjbyn
+павер поинт
+gfdth gjbyn
+презентации
+ghtptynfwbb
+#Excel
+"C:\Program Files\Microsoft Office\Office16\EXCEL.EXE"
+excel
+эксель
+'rctkm
+#Qt Creator
+"C:\Qt\Tools\QtCreator\bin\qtcreator.exe"
+qt creator
+кути креатор
+renb rhtfnjh
+кьюти
+rm.nb
+#PyCharm
+"C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.1\bin\pycharm64.exe"
+python
+pycharm
+py charm
+питон
+gbnjy
+пайчарм
+пай чарм
+gfqxfhv
+gfq xfhv
+#Visual Stidio
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe"
+visual studio
+вижуалка
+вижуал студио
+db;efkrf
+db;efk cnelbj
+#Pascal
+"C:\Program Files (x86)\PascalABC.NET\PascalABCNET.exe"
+pascal
+паскаль
+gfcrfkm
+#Калькулятор
+"C:\Windows\System32\calc.exe"
+калькулятор
+rfkmrekznjh
+calculator
+#Paint
+"C:\WINDOWS\system32\mspaint.exe"
+паинт
+пэинт
+gfbyn
+g'byn
+paint
+#Advanced Grapher
+"C:\Program Files (x86)\Advanced Grapher\AGrapher.exe"
+графер
+uhfath
+advanced grapher
+адвансед графер
+fldfyctl uhfath
+#Quartus
+"C:\altera\91sp2\quartus\bin\quartus.exe"
+Quartus
+квартус
+rdfhnec
+#Discord
+"C:\Users\79884\AppData\Local\Discord\app-0.0.308\Discord.exe"
+discord
+дискорд
+lbcrjhl
+#World of Tanks
+"C:\Games\World_of_Tanks_RU\wgc_api.exe"
+wot
+world of tanks
+танки
+nfyrb
+#Minecraft
+"C:\Users\79884\AppData\Roaming\.minecraft\TLauncher.exe"
+minecraft
+майнкрафт
+vfqyrhfan
+#Steam
+"C:\Program Files (x86)\Steam\steam.exe"
+steam
+стим
+cnbv
+#Панель управления
+"C:\WINDOWS\system32\control.exe"
+control
+панель управления
+gfytkm eghfdktybz
+#Редактор реестра
+"C:\WINDOWS\system32\regedt32.exe"
+реестр
+httcnh
+regedit
+редактор реестра
+htlfrnjh httcnhf
+#Диспетчер задач
+"C:\WINDOWS\system32\Taskmgr.exe"
+taskmgr
+диспетчер задач
+lbcgtnxth pflfx
+#Yandex
+"C:\Users\79884\AppData\Local\Yandex\YandexBrowser\Application\browser.exe"
+яндекс
+yandex
+zyltrc
+браузер
+,hfepth
+инет
+bytn
+#Tor Browser
+"C:\Users\79884\Documents\Tor Browser\Browser\firefox.exe"
+tor
+тор
+njh
+даркнет
+lfhrytn
+darknet
+#Notepad++
+"C:\Program Files\Notepad++\notepad++.exe"
+notepad++
+блокнот
+,kjryjn
+#Telegram
+"C:\Users\79884\AppData\Roaming\Telegram Desktop\Telegram.exe"
+telegramm
+телеграмм
+телега
+ntktuf
+ntktuhfvv
+tg
+тг
+nu
+#Aida
+"C:\Program Files (x86)\FinalWire\AIDA64 Extreme\aida64.exe"
+aida
+аида
+fblf
+#Fl Studio
+"C:\Program Files\Image-Line\FL Studio 20\FL64.exe"
+fl studio
+фл студио
+ak cnelbj
+флка
+akrf
+#Blender
+"C:\Program Files\Blender Foundation\Blender 2.83\blender.exe"
+blender
+блендер
+блэндер
+#Photoshop
+"C:\Program Files\Adobe\Adobe Photoshop 2020\photoshop.exe"
+photoshop
+фотошоп
+ajnjijg
+#Lightroom
+"C:\Program Files\Adobe\Adobe Lightroom Classic\Lightroom.exe"
+lightroom
+лайтрум
+kfqnhev
+#Premiere Pro
+premiere pro
+премьер про
+ghtvmth ghj
+#Ютуб
+https://www.youtube.com/
+ютуб
+.ne,
+youtube
+#ВКонтакте: Моя страница
+https://vk.com/user618
+вк страница
+страница вк
+dr cnhfybwf
+cnhfybwf dr
+#Почта mail.ru
+https://mail.ru/
+почта
+gjxnf
